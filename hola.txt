@@ -1,0 +1,4 @@
+laBusqueda y ResultadoBusqueda están en la carpeta php
+
+Las consultas no han sido actualizadas según los cambios de la base de datos realizados
+el sábado 23, más que nada es como una prueba para ver si sí puedo subir archivos xd.
